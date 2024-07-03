@@ -22,13 +22,16 @@
       padding:2rem 2rem 3rem 2rem ;
       margin: 4rem 20rem 4rem 25rem;
       height: 600px;
-      width:400px;
+      width:350px;
       color: white;
       text-align: center;
       border-radius: 10px;
     }
     .avater{
       border-radius: 50%;
+    }
+    .menu{
+       margin-top:2rem
     }
     .menu ul li{
       border: 1px solid grey;
@@ -62,7 +65,7 @@
     }
     @media(max-width: 650px) {
       .main{
-        margin: 2rem 2rem 2rem 3rem; 
+        margin: 2rem 2rem 2rem 3.5rem; 
         width: 250px;   
       }
     }
