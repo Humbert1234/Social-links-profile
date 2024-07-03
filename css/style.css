@@ -30,12 +30,16 @@
     .avater{
       border-radius: 50%;
     }
+    h3{
+      margin-top: 1rem;
+      margin-bottom:1rem;
+    }
     .menu{
       margin-top:2rem;
     }
     .menu ul li{
       border: 1px solid grey;
-      margin: 0.5rem;
+      margin: 1.5rem;
       padding:0.8rem 0.8rem 0.8rem 0.8rem ;
       border-radius: 8px;
       background: rgba(128, 128, 128,0.2);
